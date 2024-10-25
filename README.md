@@ -40,6 +40,6 @@ extension type defaults to .py
 
 output name defaults to output.pdf
 
-excludsion directories are mainly so you can pass virtual env directories and cache directories to the program, to prevent those from being captured as well.
+exclusion directories are mainly so you can pass virtual env directories and cache directories to the program, to prevent those from being captured as well.
 
 This program is very basic, and contains little to no error handling or nuance, use with caution if you're going to.
